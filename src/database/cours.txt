@@ -1,0 +1,4 @@
+ID001 Math_Basics Theoretical 12 12 2025 9 11 0 30 Center_A 127
+ID002 Physics_Lab Practical 14 12 2025 14 16 1 20 Center_B 31
+ID003 Advanced_Programming Practical 16 12 2025 10 13 2 25 Center_C 62
+
